@@ -1,10 +1,10 @@
-# 基于SSM二手车交易管理系统
+# 基于SSM二手车交易管理系统1
 
 ## 获取方式
 
-扫描下方，回复关键词  ： “**二手车1** ”   
+下方扫一扫关注后，后台回复关键词：**二手车**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,25 +35,25 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311732832.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202205311732832.jpg)
 
 ### 4.2前端 模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311732671.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202205311732671.jpg)
 
-![车辆详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311732969.jpg)
+![车辆详情](https://www.codeshop.fun/Typora-Images/202205311732969.jpg)
 
 用户可以多条件筛选车辆，还可以下单，将车辆加入购物车
 
 ### 4.3 用户模块
 
-![用户-车辆管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311733275.jpg)
+![用户-车辆管理](https://www.codeshop.fun/Typora-Images/202205311733275.jpg)
 
-![用户-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311733306.jpg)
+![用户-订单管理](https://www.codeshop.fun/Typora-Images/202205311733306.jpg)
 
-![用户-购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311733811.jpg)
+![用户-购物车](https://www.codeshop.fun/Typora-Images/202205311733811.jpg)
 
-![用户-发布二手车辆信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311733234.jpg)
+![用户-发布二手车辆信息](https://www.codeshop.fun/Typora-Images/202205311733234.jpg)
 
 - 车辆管理：用户可以查看自己出售的车辆信息，并能够下架车辆
 - 订单管理：用户可以查看订单信息，并能够取消订单
@@ -62,27 +62,19 @@
 
 ### 4.4管理员 模块
 
-![管理员-待审车辆管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311737469.jpg)
+![管理员-待审车辆管理](https://www.codeshop.fun/Typora-Images/202205311737469.jpg)
 
-![管理员-可出售车辆管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311738470.jpg)
+![管理员-可出售车辆管理](https://www.codeshop.fun/Typora-Images/202205311738470.jpg)
 
-![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311738432.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202205311738432.jpg)
 
-![管理员-预定车辆管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311738241.jpg)
+![管理员-预定车辆管理](https://www.codeshop.fun/Typora-Images/202205311738241.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205311738611.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202205311738611.jpg)
 
 车辆管理：管理员可以查看和删除待审核的、可出售的、已被预订的、已出售和所有的车辆信息
 
 订单管理：管理员可以查看和删除订单信息
 
 用户管理：管理员可以查看和删除用户信息
-
-## 5、获取方式
-
-扫描下方，回复关键词  ： “**二手车1** ”   
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
